@@ -1,2 +1,2 @@
 # test-repo
-Testing private repositor feature
+Testing private repository feature, and also git credential feature
